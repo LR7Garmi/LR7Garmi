@@ -6,6 +6,8 @@ int main()
 {
 	int n;
 	cin>>n;
-	cout<<"Hello World";
+	long long t;
+	cin>>k;
+	cout<<"This is conflict";
 	return 0;
 }
